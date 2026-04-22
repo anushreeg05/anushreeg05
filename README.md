@@ -26,7 +26,7 @@
 
 ### 💼 Experience
 
-**💻 Software Development Intern — Schneider Electric** *(Jan 2026 – Present, Bengaluru)*
+**💻 SD Intern — Schneider Electric** *(Jan 2026 – Present, Bengaluru)*
 - Contributing to real-world enterprise-level software development projects
 - Working on scalable systems and improving application performance
 - Collaborating with teams to build efficient and reliable solutions
