@@ -35,25 +35,20 @@
 
 ### 💼 Projects
 
-**📌 Text Extraction from Images**
-- Built using **Python, EasyOCR & OpenCV**
-- Developed full pipeline: detection → bounding boxes → extraction
-- Improved readability using image processing techniques
+**📌 RL-Based Cyber Threat Detection on Edge**
+- Developed an RL model using a Deep Q-Network (DQN) with NASIM for real-time attack mitigation  
+- Built a Cyber Knowledge Graph using Graphker & Neo4j to structure threat intelligence  
+- Built a GenAI model using Streamlit that generates Cypher queries for threat analysis using Groq, Gemini, and Neo4j  
+
+**📌 Laptop Price Prediction**
+- Performed advanced EDA and feature engineering using Python & Power BI  
+- Built and deployed a Gradient Boosting model for accurate laptop price prediction  
+- Developed a Streamlit web app integrating scikit-learn pipelines for real-time predictions  
 
 **📌 Spam Email Detection**
-- Built ML model using **Naive Bayes**
-- Developed **Streamlit app** for real-time predictions
-- Implemented full ML pipeline (preprocessing → training → evaluation)
-
-**📌 Audio Classification using CNN**
-- Classified spoken digits using **Neural Networks**
-- Used **MFCC preprocessing** for better performance
-- Achieved high accuracy on unseen data
-
-**📌 Power BI Sales Dashboard**
-- Built interactive dashboards using **Power BI, DAX & Power Query**
-- Visualized trends across time, cities, and products
-- Enabled real-time insights on sales & profit
+- Developed a machine learning pipeline using a Naive Bayes classifier  
+- Created a Jupyter Notebook for preprocessing, training, and evaluation  
+- Built a Streamlit web app for real-time spam detection  
 
 ---
 
