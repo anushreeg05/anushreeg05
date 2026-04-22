@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A5FFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;SD+Intern+%40+Schneider+Electric;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Data+Analytics;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A5FFF&center=true&vCenter=true&width=850&lines=AI+%26+ML+Enthusiast;SD+Intern+%40+Schneider+Electric;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Data+Analytics;Always+Learning+New+Things" />
 </p>
 
 ---
