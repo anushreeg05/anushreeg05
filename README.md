@@ -16,9 +16,9 @@
 
 ### 🧠 About Me
 
-🎓 B.E in **CSE (AI & ML)** at **NIE Mysuru** (CGPA: 9.16/10)  
+🎓 B.E in **CSE (AI & ML)** at **NIE Mysuru** (CGPA: 9.06/10)  
 💻 Skilled in **Python, C++, Machine Learning, Deep Learning**  
-📊 Interested in **Data Analytics, NLP & AI systems**  
+📊 Interested in **Data Analytics, NLP & AI systems, Generative AI**  
 🚀 Love building **real-world intelligent applications**  
 📍 Based in **Mysore, Karnataka**
 
