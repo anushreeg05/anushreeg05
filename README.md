@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A5FFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Data+Analytics;Always+Learning+New+Things" />
 </p>
+
 ---
 
 ### 🧠 About Me
