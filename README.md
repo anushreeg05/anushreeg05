@@ -77,6 +77,16 @@
 
 ---
 
+<div align="center">
+
+### ✨ Visitors Count ✨
+
+<img src="https://komarev.com/ghpvc/?username=anushreeg05&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" width="250" />
+
+</div>
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -90,9 +100,3 @@
 </p>
 
 ---
-
-### ✨ Visitors Count ✨
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anushreeg05&label=PROFILE+VIEWS&color=7A5FFF&style=for-the-badge" />
-</p>
