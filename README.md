@@ -9,18 +9,26 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A5FFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Deep+Learning+%7C+NLP+%7C+Data+Analytics;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7A5FFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast;Machine+Learning+Engineer;Deep+Learning+%7C+NLP+%7C+Data+Analytics;Always+Learning+New+Things" />
 </p>
-
 ---
 
 ### 🧠 About Me
 
-🎓 B.E in **CSE (AI & ML)** at **NIE Mysuru** (CGPA: 8.88/10)  
+🎓 B.E in **CSE (AI & ML)** at **NIE Mysuru** (CGPA: 9.16/10)  
 💻 Skilled in **Python, C++, Machine Learning, Deep Learning**  
 📊 Interested in **Data Analytics, NLP & AI systems**  
 🚀 Love building **real-world intelligent applications**  
 📍 Based in **Mysore, Karnataka**
+
+---
+
+### 💼 Experience
+
+**💻 Software Development Intern — Schneider Electric** *(Jan 2026 – Present, Bengaluru)*
+- Contributing to real-world enterprise-level software development projects
+- Working on scalable systems and improving application performance
+- Collaborating with teams to build efficient and reliable solutions
 
 ---
 
