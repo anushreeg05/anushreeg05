@@ -67,14 +67,6 @@
 
 ---
 
-### 🏆 Achievements & Certifications
-
-🏅 **1st Place – NITK Surathkal Security Bootcamp**  
-📜 IIT Madras – *Pitch for Planet Participant*  
-💡 Hackfest '25 – National Hackathon Participant  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
