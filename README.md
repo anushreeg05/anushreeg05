@@ -71,12 +71,20 @@
 
 ---
 
-### 📊 GitHub Stats
+
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anushreeg05&show_icons=true&theme=tokyonight&hide_border=true" />
-  &nbsp;
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anushreeg05&theme=tokyonight&hide_border=true" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushreeg05&theme=tokyonight" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anushreeg05&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
